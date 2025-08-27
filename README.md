@@ -1,6 +1,6 @@
 # Aho-Corasick algorithm
 
-Ex. (19) – <strong>Aho–Corasick</strong> multi-pattern scan appears here in Python. Although the syntax is Python-specific, the core idea mirrors the usual form of the algorithm. This code sample is one entry in a suite of 127 algorithms set out in <i>[Antivirus Engines: From Methods to Innovations, Design, and Applications](https://github.com/Gagniuc/Antivirus-Engines)</i> (Elsevier Syngress, 2024, pp. 1-656).
+Ex. (19) – <strong>Aho–Corasick</strong> multi-pattern scan appears here in Python. Although the syntax is Python-specific, the core idea mirrors the usual form of the algorithm. This code sample is one entry in a suite of 127 algorithms set out in <i>[Antivirus Engines: From Methods to Innovations, Design, and Applications](https://github.com/Gagniuc/Antivirus-Engines)</i> (Elsevier Syngress, 2024).
 
 ***
 
