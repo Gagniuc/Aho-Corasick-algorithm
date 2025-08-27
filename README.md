@@ -2,7 +2,7 @@
 
 In this example, single-letter class and function names are used for brevity. The class T represents nodes in the trie structure built by the algorithm. Each node contains the transitions to child nodes (c), the output patterns associated with the node (o), and the failure state pointer (f) for traversal. The function b constructs the trie structure from a list of patterns, iteratively adding each pattern character by character. The function f builds the failure transitions for nodes, assigning the correct failure links across the trie. The main algorithmic work of searching for matching patterns is performed by the function a, which scans the input text using the trie and returns a list of matched patterns along with their positions. In the provided example, a list of patterns p = ["s1", "s2", "s3", "s4"] is defined, and the text t = "IAs3mAfile" is searched. The trie is built with b, failure transitions are established with f, and pattern searching is accomplished with a. Matched patterns and their positions in the input text are then printed, showcasing the efficient multi-pattern string matching capability of the Aho-Corasick algorithm implemented in a highly condensed form.
 
-## Example in Python:
+## Native implementation in Python
 
 ```python
 class T:
