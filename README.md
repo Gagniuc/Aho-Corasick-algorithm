@@ -71,7 +71,6 @@ Pattern 's3' found at position 2
 
 ## References
 
-***
-
 - <i>Paul A. Gagniuc. Antivirus Engines: From Methods to Innovations, Design, and Applications. Cambridge, MA: Elsevier Syngress, 2024. pp. 1-656.</i>
 
+***
